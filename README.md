@@ -16,4 +16,4 @@ AI engineer with a Computer Engineering background. I build **on-device ML**, **
 
 **Tools I use most:** Python, PyTorch, ONNX Runtime, Kotlin/Android, C++, TypeScript, FastAPI, Postgres/pgvector, Claude and OpenAI APIs.
 
-Contact: [lhampis@gmail.com](mailto:lhampis@gmail.com)
+Contact: [charalambosrotsides@gmail.com](mailto:charalambosrotsides@gmail.com) or [charalambosrotsides@outlook.com](mailto:charalambosrotsides@outlook.com)
