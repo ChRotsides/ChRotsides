@@ -1,4 +1,4 @@
-### Hi, I'm Charalambos 👋
+### Charalambos Rotsides
 
 AI engineer with a Computer Engineering background. I build **on-device ML**, **computer vision** systems and **LLM agents**, and I care about measuring whether they actually work.
 
@@ -16,4 +16,4 @@ AI engineer with a Computer Engineering background. I build **on-device ML**, **
 
 **Tools I use most:** Python, PyTorch, ONNX Runtime, Kotlin/Android, C++, TypeScript, FastAPI, Postgres/pgvector, Claude and OpenAI APIs.
 
-📫 [lhampis@gmail.com](mailto:lhampis@gmail.com)
+Contact: [lhampis@gmail.com](mailto:lhampis@gmail.com)
